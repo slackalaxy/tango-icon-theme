@@ -10,3 +10,11 @@ they follow the new naming scheme [2].
 
 [1] http://tango-project.org/Tango_Icon_Theme_Guidelines
 [2] http://tango-project.org/Standard_Icon_Naming_Specification
+
+#########################
+48x48 png (UNOFFICIAL): #
+#########################
+2022-03-11:
+* Add 48x48 PNG icons
+The 48x48 png icons were added by Petar P. <slackalaxy at gmail dot com>
+No modifications to the theme itself.
